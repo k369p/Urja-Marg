@@ -106,4 +106,5 @@ npm run dev
 💬 Interactive Modals, Toasts, and Command Palette  
 
 ```markdown
-### 😎❤️ Crafted with chai ☕️ and clean code 💻 by ![Author](https://img.shields.io/badge/Author-Keval%20Patel-blue) Keval Patel
+### 😎❤️ Crafted with chai ☕️ and clean code 💻 by 
+![Author](https://img.shields.io/badge/Author-Keval%20Patel-blue)
