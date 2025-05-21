@@ -105,5 +105,7 @@ npm run dev
 🌘 Light / Dark Mode Support  
 💬 Interactive Modals, Toasts, and Command Palette  
 
-### 😎❤️ Crafted with chai ☕️ and clean code 💻 by 
-![Author](https://img.shields.io/badge/Author-Keval%20Patel-blue)
+### 😎❤️ Crafted with chai ☕️ and clean code 💻 by [Keval Patel](https://github.com/k369p)
+
+🖇️[![LinkedIn](https://img.shields.io/badge/LinkedIn-Keval%20Patel-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/your-linkedin-handle/)
+[![GitHub](https://img.shields.io/badge/GitHub-k369p-black?logo=github&style=flat)](https://github.com/k369p)
