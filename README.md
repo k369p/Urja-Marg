@@ -83,7 +83,7 @@ This app is built to empower people with **insights into what they eat**, withou
 ## 🔧 Setup Guide
 
 ### 1. 📁 Clone & Navigate
-git clone https://github.com/k369p/Urja-Marg.git
+git clone https://github.com/k369p/Urja-Marg.git  
 cd urja-marg
 
 
@@ -105,5 +105,5 @@ npm run dev
 🌘 Light / Dark Mode Support  
 💬 Interactive Modals, Toasts, and Command Palette  
 
-
-### 😎❤️ Crafted with chai ☕️☕ and clean code 💻 by Keval Patel
+```markdown
+### 😎❤️ Crafted with chai ☕️ and clean code 💻 by ![Author](https://img.shields.io/badge/Author-Keval%20Patel-blue) Keval Patel
