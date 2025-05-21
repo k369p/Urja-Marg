@@ -83,7 +83,7 @@ This app is built to empower people with **insights into what they eat**, withou
 ## 🔧 Setup Guide
 
 ### 1. 📁 Clone & Navigate
-git clone https://github.com/your-username/urja-marg.git
+git clone https://github.com/k369p/Urja-Marg.git
 cd urja-marg
 
 
