@@ -105,6 +105,5 @@ npm run dev
 🌘 Light / Dark Mode Support  
 💬 Interactive Modals, Toasts, and Command Palette  
 
-```markdown
 ### 😎❤️ Crafted with chai ☕️ and clean code 💻 by 
 ![Author](https://img.shields.io/badge/Author-Keval%20Patel-blue)
