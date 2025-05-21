@@ -107,5 +107,5 @@ npm run dev
 
 ### 😎❤️ Crafted with chai ☕️ and clean code 💻 by [Keval Patel](https://github.com/k369p)
 
-🖇️[![LinkedIn](https://img.shields.io/badge/LinkedIn-Keval%20Patel-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/kp369/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Keval%20Patel-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/kp369/)
 [![GitHub](https://img.shields.io/badge/GitHub-k369p-black?logo=github&style=flat)](https://github.com/k369p)
