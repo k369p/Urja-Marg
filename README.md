@@ -96,14 +96,16 @@ npm run dev
 ---
 
 ## 🔮 What's Next
-🍱 AI-based food recognition from photos 
-🧘 Personalized meal plans
-🗣️ 🇮🇳Indian Multilingual support (English, Hindi, Gujarati, Marathi, Punjabi, and many more...)
-🧾 Integration with Indian food APIs
-🛎️ Reminder notifications to log meals
-🧠 AI-powered food recognition (via image)
-🌘 Light / Dark Mode Support  
-💬 Interactive Modals, Toasts, and Command Palette  
+| Shortcomings |
+|--------------|
+| 🍱 AI-based food recognition from photos |
+| 🧘 Personalized meal plans |
+| 🗣️ 🇮🇳Indian Multilingual support (English, Hindi, Gujarati, Marathi, Punjabi, and many more...) |
+| 🧾 Integration with Indian food APIs |
+| 🛎️ Reminder notifications to log meals |
+| 🧠 AI-powered food recognition (via image) |
+| 🌘 Light / Dark Mode Support |
+| 💬 Interactive Modals, Toasts, and Command Palette |
 
 ### 😎❤️ Crafted with chai ☕️ and clean code 💻 by [Keval Patel](https://github.com/k369p)
 
